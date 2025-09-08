@@ -1,0 +1,15 @@
+# Dependências principais
+pyspark==3.5.0
+delta-spark==3.1.0
+
+# Suporte a notebooks
+jupyter==1.0.0
+ipykernel==6.29.0
+
+# Utilitários de dados
+pandas==2.2.0
+numpy==1.26.4
+
+# Visualização (caso use dentro dos notebooks)
+matplotlib==3.8.2
+seaborn==0.13.2
